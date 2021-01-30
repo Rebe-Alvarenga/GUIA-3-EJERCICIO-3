@@ -10,7 +10,7 @@ namespace GUIA_3_EJERCICIO_3
              *PROGRAMACION ESTRUCTURADA G07L
              *REBECA SARAÍ ALVARENGA HERNÁNDEZ
              *
-             *EJERCICIO #1 GUIA 3
+             *EJERCICIO #3 GUIA 3
              */
 
             double r, v;
